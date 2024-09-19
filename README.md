@@ -6,19 +6,19 @@ This project focuses on the analysis of sales and financial data to deliver acti
 
 1. # Sales Analytics:
 Generate a comprehensive Customer Performance Report to evaluate customer-level performance. Perform a detailed comparison between Market Performance and Sales Targets. 
-Customer Performance Report - (https://github.com/gayatrinaidu01/Excel-Sales-Analytics/blob/main/Customer%20Performance%20Report.pdf) 
-Market Performance vs Sales Target Report - (https://github.com/gayatrinaidu01/Excel-Sales-Analytics/blob/main/Market%20Performance%20vs%20Target%20Report.pdf)
+a.) Customer Performance Report - (https://github.com/gayatrinaidu01/Excel-Sales-Analytics/blob/main/Customer%20Performance%20Report.pdf) 
+b.) Market Performance vs Sales Target Report - (https://github.com/gayatrinaidu01/Excel-Sales-Analytics/blob/main/Market%20Performance%20vs%20Target%20Report.pdf)
 
 2. # Financial Analytics:
 Create Profit and Loss (P&L) Reports by fiscal year and months to monitor financial health. Analyze P&L statements by Markets for a granular view of profitability across regions.
-P&L Statement by Fiscal Year - (https://github.com/gayatrinaidu01/Excel-Sales-Analytics/blob/main/P%26L%20Statement%20by%20Fiscal%20Year.pdf)
-P&L Statement by Fiscal Month - (https://github.com/gayatrinaidu01/Excel-Sales-Analytics/blob/main/P%26L%20Statement%20by%20Months.pdf)
-P&L Statement by Fiscal - (https://github.com/gayatrinaidu01/Excel-Sales-Analytics/blob/main/P%26L%20Statement%20by%20Markets.pdf)
+a.) P&L Statement by Fiscal Year - (https://github.com/gayatrinaidu01/Excel-Sales-Analytics/blob/main/P%26L%20Statement%20by%20Fiscal%20Year.pdf)
+b.) P&L Statement by Fiscal Month - (https://github.com/gayatrinaidu01/Excel-Sales-Analytics/blob/main/P%26L%20Statement%20by%20Months.pdf)
+c.) P&L Statement by Fiscal - (https://github.com/gayatrinaidu01/Excel-Sales-Analytics/blob/main/P%26L%20Statement%20by%20Markets.pdf)
 
-# Purpose of Sales Analytics :
-1. The sales analytics component of project is designed to empower businesses to:
-2. Monitor and evaluate their sales performance.
-3. Identify sales trends and key performance indicators (KPIs) to optimize business strategies.
+# Purpose of Sales Analytics : 
+The sales analytics component of project is designed to empower businesses to:
+1. Monitor and evaluate their sales performance.
+2. Identify sales trends and key performance indicators (KPIs) to optimize business strategies.
 
 # Benefits of Sales Data Analysis :
 1. Pinpoint effective customer discounts.
